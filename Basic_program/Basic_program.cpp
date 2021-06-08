@@ -8,16 +8,18 @@ int main(){
 // variable-type variable-name; 
 // We will talk about variables in detail
 
-	std::cout << "Enter fav num:"     // cout---> console out
+	std::cout << "Enter fav num:";     // cout---> console out
 // Stores the string in the cout and gives out the output to the console
 // i.e. monitor
 		
-	std::cin>>n    					// cin----> console in
+	std::cin>>n;    					// cin----> console in
 
 // Takes input from the user from the console(keyboard) and then 
 // stores it in the integer n;
-}
 
+// ; is used to finish the statement
+
+}
 
 // to run the program 
 // enter in terminal
