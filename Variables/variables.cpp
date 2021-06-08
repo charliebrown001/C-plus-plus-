@@ -2,7 +2,7 @@
 //
 // Ram --> Random access memory 
 //
-// It is divided into blocks and each block of memory is reffered with a 
+// Ram is divided into blocks and each block of memory is referred with a 
 // unique set of numbers and letters
 //
 // Referring these block with the real names is hard and can cause mistakes

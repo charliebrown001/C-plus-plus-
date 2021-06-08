@@ -19,7 +19,7 @@
 #include<string> // to use the string data type
 
 int age {90};
-float hi {10.8938};
+float number {10.8938};
 char fav_letter = 'a';
 double distance {8103910983098.8138387383};
 std::string name = "Kushagra Jain";

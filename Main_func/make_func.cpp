@@ -8,5 +8,5 @@
 int main(){
 	// your code
 	// bla bla
-	returun 0;
+	return 0;
 }
